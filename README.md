@@ -61,9 +61,9 @@ Periodo: 0.00046 (s)
 
 - Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: 2173.91(Hz)
+f:  2173.91 (Hz)
 
-ω: 346rad/s)
+ω:  346 (rad/s)
 
 -Con el multimetro digital mida el voltaje de salida de Rl: 4.84V
 
