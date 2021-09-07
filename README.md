@@ -4,7 +4,7 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 1. Objetivos 
 
-Objetivo General
+     Objetivo General
      
      Analizar las características de las ondas sinusoidales mediante la simulación y utilizacion 
      del laboratorio virtual.
@@ -63,7 +63,13 @@ f: (Hz)
 
 # 6. Conclusiones
 
-
+- A mayor frecuencia en el oscilador PWM de onda cuadrada, el voltaje en el transformador
+toroidal aumenta, lo cual valida la ecuación de la relación del número de vueltas.
+- La utilización de circuitos integrados desarrollados específicamente para inversores,
+cuenta con características necesarias para la implementación y control de fuentes.
+- Las realimentaciones nos ayudan a detectar inconvenientes apagan el circuito para salvaguardar
+la integridad de los componentes, mismas que fueron probadas con diferentes cargas para validar
+su funcionamiento.
 
 
 # 7. Bibliografía 
