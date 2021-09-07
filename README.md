@@ -20,6 +20,8 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesLab8/blob/main/Marco%20teorico%20Onda%20Senoidal.JPG)
+
 ![](https://github.com/mjvilla1/ImagenesLab8/blob/main/Marco%20Teorico.PNG)
 
 # 3. Explicación  del procedimiento
