@@ -24,11 +24,16 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 3. Explicación  del procedimiento
 
+![](https://github.com/mjvilla1/ImagenesLab8/blob/main/Diagram%20lab%208.jpeg)
+
+
+Plasmamos el diagrama en el simulador con los valores dados previamente y conectamos los elementos de medición para poder medir los valores pedidos de la misma manera observamos como se produce la onda sinusoidal para ser analizada.
+
+![](https://github.com/mjvilla1/ImagenesLab8/blob/main/circuito%20lab%208.jpeg)
+
+ 
 
 #  4. Respuestas 
-
-
-
 
 ## ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
@@ -48,14 +53,18 @@ Está posicionada en el valor de 0.1ms
 
 - ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
-Amplitud de voltaje:  (V) 
+Amplitud de voltaje: 6.86 (V) 
 
-Periodo:  (s)
+Periodo: 0.001 (s)
 
 - Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
 f: (Hz)
 ω:  (rad/s)
+
+-Con el multimetro digital mida el voltaje de salida de Rl: 4.84V
+
+- ¿COINCIDEN? No coinciden ¿Por qué? Los valores del osciloscopio y el multímetro no seran los mismos ya que el valor que nos da el multimetro es el valor eficaz el cual es siempre menor que el valor entregado por el osciloscopio, matematicamente se podria expesar el valor eficaz es igual al valor pico mostrado en el osciloscopio dvidido para raiz de 2 o multiplicado o 0.707.
 
 # 5. Video
 
