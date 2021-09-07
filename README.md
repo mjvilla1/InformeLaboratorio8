@@ -73,3 +73,5 @@ su funcionamiento.
 
 
 # 7. Bibliografía 
+
+Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 431.
