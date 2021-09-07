@@ -6,12 +6,17 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 Objetivo General
      
-     Analizar las características de las ondas sinusoidales mediante la simulación y utilizacion del laboratorio virtual.
+     Analizar las características de las ondas sinusoidales mediante la simulación y utilizacion 
+     del laboratorio virtual.
     
     Objetivos Específicos
-     - 
-     - 
-     - 
+     - Analizar la documentación bibliográfica acerca de los tipos de configuraciones y las
+     técnicas de control del inversor de DC a AC, para el cálculo de la relación de conversión y
+     eficiencia.
+     - Definir el circuito más adecuado de modulación basado en: modulación de ancho de pulsos
+     Sinusoidal.
+     - Definir la frecuencia más adecuada de trabajo en base al tipo de Transformador que se
+     utilizará.
 
 # 2. Marco Teórico
 
