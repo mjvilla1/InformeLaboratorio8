@@ -57,13 +57,13 @@ Está posicionada en el valor de 0.1ms
 
 Amplitud de voltaje: 6.86 (V) 
 
-Periodo: 0.001 (s)
+Periodo: 0.00046 (s)
 
 - Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f: ###########(Hz)
+f: 2173.91(Hz)
 
-ω: ###########(rad/s)
+ω: 346rad/s)
 
 -Con el multimetro digital mida el voltaje de salida de Rl: 4.84V
 
